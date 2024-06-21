@@ -1,7 +1,7 @@
-# Тесты по сайту [Koshelek](https://koshelek.ru/authorization/signup)
+# Тесты по форме регистрации сайта [Koshelek](https://koshelek.ru/authorization/signup)
 
 ### Окружение:
-+ Windows 11 Version 22H2 / Chrome Версия 120.0.6099.110 (Официальная сборка), (64 бит)
++ Windows 11 Version 22H2
 + Python 3.12
 
 ### Для запуска:
@@ -10,5 +10,5 @@
   + ***pip install playwright***
   + ***playwright install***
 + Запуск производится через команды:
-+ Без запуска браузера: ***pytest***
-+ С запуском браузера: ***pytest --headed***
+  + Без запуска браузера: ***pytest***
+  + С запуском браузера: ***pytest --headed***
