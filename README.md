@@ -1,4 +1,4 @@
-# Тесты по сайту [Koshelek]([https://selenium1py.pythonanywhere.com/ru/catalogue/](https://koshelek.ru/authorization/signup))
+# Тесты по сайту [Koshelek](https://koshelek.ru/authorization/signup)
 
 ### Окружение:
 + Windows 11 Version 22H2 / Chrome Версия 120.0.6099.110 (Официальная сборка), (64 бит)
